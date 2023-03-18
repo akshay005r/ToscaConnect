@@ -1,2 +1,2 @@
 # ToscaConnect
-Used for Tosca Connect Integration 
+Used for Tosca Workspace Versioning Integration 
